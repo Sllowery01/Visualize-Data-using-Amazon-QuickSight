@@ -19,8 +19,9 @@ The goal is to leverage Amazon S3 for data storage and Amazon QuickSight for vis
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Step #1: Download the Dataset
+ 
 - Navigate to [2-s3-quicksight](https://github.com/techwithlucy/youtube) to download the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
 - Click on "raw" and Control+S to save both files onto your computer.
 : <br/>
